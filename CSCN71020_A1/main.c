@@ -20,7 +20,8 @@ void main() {
 	{
 	case 1:
 		add();
-
+		break;
+		
 	case 2: 
 		subtract();
 	}
